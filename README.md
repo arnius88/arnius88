@@ -7,7 +7,7 @@
 
 <h2>📃 Certifications:</h2>
 
-  - [Internal Security Audit](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Google Cybersecurity Professional Certificate](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <!--
 <h2>📺 Popular YouTube Videos</h2>
