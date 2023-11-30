@@ -8,6 +8,22 @@
 - <b>Protecting the Network</b>
   - [Incident Report Using NIST CSF](https://github.com/arnius88/IncidentReport)
 
+- <b>Tools of the Trade: Linux</b>
+  - [Use Linux to manage file permissions](https://github.com/arnius88/LinuxPermissions)
+
+- <b>Tools of the Trade: SQL</b>
+  - [Apply Filters to SQL](https://github.com/arnius88/SQLFilters)
+
+- <b>Assessing Vulnerabilities</b>
+  - [Vulnerabily Assessment Report](https://github.com/arnius88/VulnerabilityAssessment)
+    
+- <b>Incident Handler's Journal</b>
+  - [Example of Incident Handler's Journal](https://github.com/arnius88/IncidentJournal)
+
+ - <b>Automating Tasks with Python</b>
+  - [Parsing Files' Content](https://github.com/arnius88/PythonParsing)
+ 
+
 
 <h2>📃 Certifications:</h2>
 
