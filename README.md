@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Managing Security Risks</b>
-  - [Internal Security Audit](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Internal Security Audit](https://github.com/arnius88/InternalAudit)
 
 <h2>📃 Certifications:</h2>
 
