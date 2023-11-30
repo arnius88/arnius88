@@ -5,6 +5,10 @@
 - <b>Managing Security Risks</b>
   - [Internal Security Audit](https://github.com/arnius88/InternalAudit)
 
+- <b>Protecting the Network</b>
+  - [](https://github.com/arnius88/InternalAudit)
+
+
 <h2>📃 Certifications:</h2>
 
   - [Google Cybersecurity Professional Certificate](https://github.com/joshmadakor1/Algorithms-Practice)
