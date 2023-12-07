@@ -21,7 +21,7 @@
   - [Example of Incident Handler's Journal](https://github.com/arnius88/IncidentJournal)
 
 - <b>Automating Tasks with Python</b>
-  - [Parsing Files' Content](https://github.com/arnius88/PythonParsing)
+  - [Parsing Files Content](https://github.com/arnius88/PythonParsing)
  
 
 
