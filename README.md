@@ -9,7 +9,7 @@
   - [Incident Report Using NIST CSF](https://github.com/arnius88/IncidentReport)
 
 - <b>Tools of the Trade: Linux</b>
-  - [Use Linux to manage file permissions](https://github.com/arnius88/LinuxPermissions)
+  - [Use Linux to Manage File Permissions](https://github.com/arnius88/LinuxPermissions)
 
 - <b>Tools of the Trade: SQL</b>
   - [Apply Filters to SQL](https://github.com/arnius88/SQLFilters)
