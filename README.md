@@ -1,5 +1,7 @@
 <h1>Hi, I'm Matteo! <br/>
 
+- 😄 Pronouns: He/Him
+
 <h2>📃 Certifications:</h2>
 
   - [Google Cybersecurity Professional Certificate](https://drive.google.com/file/d/1SXimlyRSZp9KUcNiuj_ICkX4kaNYsEks/view?usp=sharing)
