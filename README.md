@@ -1,5 +1,9 @@
 <h1>Hi, I'm Matteo! <br/>
 
+<h2>📃 Certifications:</h2>
+
+  - [Google Cybersecurity Professional Certificate](https://drive.google.com/file/d/1SXimlyRSZp9KUcNiuj_ICkX4kaNYsEks/view?usp=sharing)
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Managing Security Risks</b>
@@ -24,10 +28,6 @@
   - [Parsing Files Content](https://github.com/arnius88/PythonParsing)
  
 
-
-<h2>📃 Certifications:</h2>
-
-  - [Google Cybersecurity Professional Certificate](https://drive.google.com/file/d/1SXimlyRSZp9KUcNiuj_ICkX4kaNYsEks/view?usp=sharing)
 
 <!--
 <h2> 🤳 Connect with me:</h2>
