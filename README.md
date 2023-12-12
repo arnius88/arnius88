@@ -11,7 +11,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Managing Security Risks</b>
-  - [Internal Security Audit](https://github.com/arnius88/InternalAudit)
+  - [Internal Security Audit](https://github.com/arnius88/internal_audit)
 
 - <b>Protecting the Network</b>
   - [Incident Report Using NIST CSF](https://github.com/arnius88/IncidentReport)
