@@ -14,22 +14,22 @@
   - [Internal Security Audit](https://github.com/arnius88/internal_audit)
 
 - <b>Protecting the Network</b>
-  - [Incident Report Using NIST CSF](https://github.com/arnius88/IncidentReport)
+  - [Incident Report Using NIST CSF](https://github.com/arnius88/incident_report)
 
 - <b>Tools of the Trade: Linux</b>
-  - [Use Linux to Manage File Permissions](https://github.com/arnius88/LinuxPermissions)
+  - [Use Linux to Manage File Permissions](https://github.com/arnius88/linux_permissions)
 
 - <b>Tools of the Trade: SQL</b>
-  - [Apply Filters to SQL](https://github.com/arnius88/SQLFilters)
+  - [Apply Filters to SQL](https://github.com/arnius88/sql_filters)
 
 - <b>Assessing Vulnerabilities</b>
-  - [Vulnerabily Assessment Report](https://github.com/arnius88/VulnerabilityAssessment)
+  - [Vulnerabily Assessment Report](https://github.com/arnius88/vulnerability_assessment)
     
 - <b>Incident Handler's Journal</b>
-  - [Example of Incident Handler's Journal](https://github.com/arnius88/IncidentJournal)
+  - [Example of Incident Handler's Journal](https://github.com/arnius88/incident_journal)
 
 - <b>Automating Tasks with Python</b>
-  - [Parsing Files Content](https://github.com/arnius88/PythonParsing)
+  - [Parsing Files Content](https://github.com/arnius88/python_parsing)
  
 
 <!--
