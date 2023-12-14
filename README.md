@@ -4,6 +4,7 @@
 
   - [Google Cybersecurity Professional Certificate](https://drive.google.com/file/d/1SXimlyRSZp9KUcNiuj_ICkX4kaNYsEks/view?usp=sharing)
   - [Microsoft Windows Defender and Firewall](https://drive.google.com/file/d/1XWbZ6aVcBASoHZMxXR5mOzqqUCQa6_cH/view?usp=sharing)
+  - [The Complete Python Course](https://drive.google.com/file/d/1EZRvvT-XsmGt5s_swSfhiv13wdI9LnSm/view?usp=sharing)
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
