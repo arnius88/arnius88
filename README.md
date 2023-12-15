@@ -8,6 +8,10 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- <b>Configuring and Updating Microsoft Defender</b>
+  - [Update Threat Definitions and Run Antivirus Scans]()
+
+
 - <b>Managing Security Risks</b>
   - [Internal Security Audit](https://github.com/arnius88/internal_audit)
 
