@@ -9,8 +9,10 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Configuring and Updating Microsoft Defender</b>
-  - [Update Threat Definitions and Run Antivirus Scans]()
+  - [Update Threat Definitions and Run Antivirus Scans](https://github.com/matteoarnetoli/update_threats)
 
+- <b>Enabling and configuring Microsoft Firewall</b>
+  - [Configure Firewall Rules Using Windows Defender Firewall]()
 
 - <b>Managing Security Risks</b>
   - [Internal Security Audit](https://github.com/arnius88/internal_audit)
