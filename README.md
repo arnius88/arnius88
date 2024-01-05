@@ -12,7 +12,7 @@
   - [Update Threat Definitions and Run Antivirus Scans](https://github.com/matteoarnetoli/update_threats)
 
 - <b>Enabling and configuring Microsoft Firewall</b>
-  - [Configure Firewall Rules Using Windows Defender Firewall]()
+  - [Configure Firewall Rules Using Windows Defender Firewall](https://github.com/matteoarnetoli/configure_firewall_rule)
 
 - <b>Managing Security Risks</b>
   - [Internal Security Audit](https://github.com/arnius88/internal_audit)
