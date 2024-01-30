@@ -12,6 +12,10 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- <b>Automating Tasks with Python 🐍</b>
+  - [Parsing Files Content](https://github.com/arnius88/python_parsing)
+  - [Generating a Linux Disk Usage Report]()
+
 - <b>Configuring and Updating Microsoft Defender</b>
   - [Update Threat Definitions and Run Antivirus Scans](https://github.com/matteoarnetoli/update_threats)
 
@@ -36,8 +40,6 @@
 - <b>Incident Handler's Journal</b>
   - [Example of Incident Handler's Journal](https://github.com/arnius88/incident_journal)
 
-- <b>Automating Tasks with Python</b>
-  - [Parsing Files Content](https://github.com/arnius88/python_parsing)
  
 
 <!--
