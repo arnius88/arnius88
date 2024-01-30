@@ -14,7 +14,7 @@
 
 - <b>Automating Tasks with Python 🐍</b>
   - [Parsing Files Content](https://github.com/arnius88/python_parsing)
-  - [Generating a Linux Disk Usage Report]()
+  - [Generating a Linux Disk Usage Report](https://github.com/matteoarnetoli/disk_usage_repot_python)
 
 - <b>Configuring and Updating Microsoft Defender</b>
   - [Update Threat Definitions and Run Antivirus Scans](https://github.com/matteoarnetoli/update_threats)
