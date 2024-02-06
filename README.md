@@ -26,7 +26,7 @@
   - [Use Linux to Manage File Permissions](https://github.com/arnius88/linux_permissions)
 
 - <b>Tools of the Trade: SQL</b>
-  - [Apply Filters to SQL](https://github.com/arnius88/sql_filters)
+  - [Investigating Login Attempts with SQL](https://github.com/arnius88/sql_filters)
 
 - <b>Managing Security Risks</b>
   - [Internal Security Audit](https://github.com/arnius88/internal_audit)
