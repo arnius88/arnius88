@@ -22,17 +22,17 @@
 - <b>Enabling and configuring Microsoft Firewall</b>
   - [Configure Firewall Rules Using Windows Defender Firewall](https://github.com/matteoarnetoli/configure_firewall_rule)
 
-- <b>Managing Security Risks</b>
-  - [Internal Security Audit](https://github.com/arnius88/internal_audit)
-
-- <b>Protecting the Network</b>
-  - [Incident Report Using NIST CSF](https://github.com/arnius88/incident_report)
-
 - <b>Tools of the Trade: Linux</b>
   - [Use Linux to Manage File Permissions](https://github.com/arnius88/linux_permissions)
 
 - <b>Tools of the Trade: SQL</b>
   - [Apply Filters to SQL](https://github.com/arnius88/sql_filters)
+
+- <b>Managing Security Risks</b>
+  - [Internal Security Audit](https://github.com/arnius88/internal_audit)
+
+- <b>Protecting the Network</b>
+  - [Incident Report Using NIST CSF](https://github.com/arnius88/incident_report)
 
 - <b>Assessing Vulnerabilities</b>
   - [Vulnerabily Assessment Report](https://github.com/arnius88/vulnerability_assessment)
