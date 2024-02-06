@@ -8,7 +8,7 @@
   - [Python Script for DevOps](https://drive.google.com/drive/folders/1nuXa5i_g_Wdj9b3hW-VMcwNdn9SWhPuk)
   - [Generate a Linux Disk User Report With Python](https://drive.google.com/drive/folders/1nuXa5i_g_Wdj9b3hW-VMcwNdn9SWhPuk)
 -->  
-  - [The Complete Python Course](https://drive.google.com/file/d/1EZRvvT-XsmGt5s_swSfhiv13wdI9LnSm/view?usp=sharing)
+  - [The Complete Python Course [Udemy]](https://drive.google.com/file/d/1EZRvvT-XsmGt5s_swSfhiv13wdI9LnSm/view?usp=sharing)
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
