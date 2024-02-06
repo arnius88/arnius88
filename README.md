@@ -17,25 +17,25 @@
   - [Generating a Linux Disk Usage Report](https://github.com/matteoarnetoli/disk_usage_repot_python)
 
 - <b>Configuring and Updating Microsoft Defender</b>
-  - [Update Threat Definitions and Run Antivirus Scans](https://github.com/matteoarnetoli/update_threats)
+  - [Updating Threat Definitions and Run Antivirus Scans](https://github.com/matteoarnetoli/update_threats)
 
 - <b>Enabling and configuring Microsoft Firewall</b>
-  - [Configure Firewall Rules Using Windows Defender Firewall](https://github.com/matteoarnetoli/configure_firewall_rule)
+  - [Configuring Firewall Rules Using Windows Defender Firewall](https://github.com/matteoarnetoli/configure_firewall_rule)
 
 - <b>Tools of the Trade: Linux</b>
-  - [Use Linux to Manage File Permissions](https://github.com/arnius88/linux_permissions)
+  - [Using Linux to Manage File Permissions](https://github.com/arnius88/linux_permissions)
 
 - <b>Tools of the Trade: SQL</b>
   - [Investigating Login Attempts with SQL](https://github.com/arnius88/sql_filters)
 
 - <b>Managing Security Risks</b>
-  - [Internal Security Audit](https://github.com/arnius88/internal_audit)
+  - [Conducting an Internal Security Audit](https://github.com/arnius88/internal_audit)
 
 - <b>Protecting the Network</b>
-  - [Incident Report Using NIST CSF](https://github.com/arnius88/incident_report)
+  - [Conducting an Incident Report Using NIST CSF](https://github.com/arnius88/incident_report)
 
 - <b>Assessing Vulnerabilities</b>
-  - [Vulnerabily Assessment Report](https://github.com/arnius88/vulnerability_assessment)
+  - [Completing a Vulnerabily Assessment Report](https://github.com/arnius88/vulnerability_assessment)
     
 - <b>Incident Handler's Journal</b>
   - [Example of Incident Handler's Journal](https://github.com/arnius88/incident_journal)
