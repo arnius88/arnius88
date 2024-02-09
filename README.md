@@ -21,7 +21,7 @@
   - [Configuring Firewall Rules Using Windows Defender Firewall](https://github.com/matteoarnetoli/configure_firewall_rule)
 
 - <b>Tools of the Trade: Wireshark 🦈</b>
-  - [Capturing Packets](https://github.com/matteoarnetoli/packet_capture)
+  - [Capturing TCP/IP Packets](https://github.com/matteoarnetoli/packet_capture)
 
 - <b>Tools of the Trade: Linux 🐧</b>
   - [Using Linux to Manage File Permissions](https://github.com/arnius88/linux_permissions)
