@@ -19,11 +19,11 @@
 
 - <b>Enabling and configuring Microsoft Firewall</b>
   - [Configuring Firewall Rules Using Windows Defender Firewall](https://github.com/matteoarnetoli/configure_firewall_rule)
-<!--  
-- <b>Tools of the Trade: Wireshark</b>
-  - [Capturing Packets](https://github.com/arnius88/)
--->  
-- <b>Tools of the Trade: Linux</b>
+
+- <b>Tools of the Trade: Wireshark 🦈</b>
+  - [Capturing Packets](https://github.com/matteoarnetoli/packet_capture)
+
+- <b>Tools of the Trade: Linux🐧</b>
   - [Using Linux to Manage File Permissions](https://github.com/arnius88/linux_permissions)
 
 - <b>Tools of the Trade: SQL</b>
