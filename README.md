@@ -36,7 +36,7 @@
   - [Conducting an Incident Report Using NIST CSF](https://github.com/arnius88/incident_report)
 
 - <b>Assessing Vulnerabilities</b>
-  - [Completing a Vulnerabily Assessment Report](https://github.com/arnius88/vulnerability_assessment)
+  - [Completing a Vulnerabily Assessment Report](https://github.com/matteoarnetoli/vulnerability-assessment)
     
 - <b>Incident Handler's Journal</b>
   - [Example of Incident Handler's Journal](https://github.com/arnius88/incident_journal)
